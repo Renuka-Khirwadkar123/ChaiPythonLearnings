@@ -1,3 +1,4 @@
+"""Program to check user age and inform user status"""
 age=int(input("Enter user age:"))
 
 if age<13:
