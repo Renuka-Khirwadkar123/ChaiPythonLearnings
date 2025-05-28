@@ -13,7 +13,7 @@ def save_data_helper(videoes):
     
 def list_youtube_videoes(videoes):
     for index,video in enumerate(videoes,start=1):
-        print(f"{index}.{videoes['name']},duration:{videoes['time']}")
+        print(f"{index}.{video['name']},duration:{video['time']}")
         print(type(index))
 def add_youtube_videoes(videoes):
     name=input("Enter video name")
