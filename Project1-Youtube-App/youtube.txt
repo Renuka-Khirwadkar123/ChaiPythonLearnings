@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"name": "python learning", "time": "1"}, {"name": "javascript learning", "time": "50 mins"}, {"name": "3 min python", "time": "3"}]
+=======
+[{"name": "testing1", "time": "234"}]
+>>>>>>> 1dd6cda3b5f12e3304cb2190c1706cdb49372214
